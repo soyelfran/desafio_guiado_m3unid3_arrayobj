@@ -1,4 +1,4 @@
-var radiologia = [
+let radiologia = [
   {
     hora: "11:00",
     especialista: "IGNACIO SCHULZ",
@@ -36,7 +36,7 @@ var radiologia = [
   },
 ];
 
-var traumatologia = [
+let traumatologia = [
   {
     hora: "8:00",
     especialista: "MARIA PAZ ALTUZARRA",
@@ -88,7 +88,7 @@ var traumatologia = [
   },
 ];
 
-var dental = [
+let dental = [
   {
     hora: "8:30",
     especialista: "ANDREA ZUÑIGA",
